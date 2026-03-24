@@ -1,0 +1,57 @@
+Submission ID,Respondent ID,Submitted at,Email,Team Name,All Team Members (Name + Email),What are you building?,Which of the partner technologies have you used?,Which of the partner technologies have you used? (Deepmind),Which of the partner technologies have you used? (CodeWords (Side Challenge)),Which of the partner technologies have you used? (Lovable),Which of the partner technologies have you used? (Dust),Which track are you competing in?,Which track are you competing in? (Conduct),Which track are you competing in? (Open Innovation),GitHub Repo (Must be public),Demo Video Link (Loom Preferred)
+HPZaggB,nrlbf6O,2026-02-21 16:25:32,natalia_sousa@icloud.com,RepoSense,"Natalia Sousa (natalia_sousa@icloud.com)
+Skyler Yamamoto (skyler_yamamoto@icloud.com)
+Kendall Kaya (kendall44@outlook.com)",Maps technical debt across any GitHub repo and surfaces prioritised refactor paths using static analysis and LLM reasoning.,"CodeWords (Side Challenge), Deepmind, Dust, Lovable",True,True,True,True,Conduct,True,False,https://github.com/natalia-sousa/reposense,https://www.loom.com/share/Z6NRh1iO3J73RpC6N5rA4VukeWxud7qB
+lEiVnN4,SgeJpB3,2026-02-21 16:47:12,qwatanabe@hey.com,MediRoute,"Quinn Watanabe (qwatanabe@hey.com)
+Nadia Bernard (nadiaber@icloud.com)
+Mira Ferrari (mira_ferrari@fastmail.com)",AI triage assistant for GP practices that classifies inbound patient queries and routes them to the right care pathway.,"CodeWords (Side Challenge), Deepmind, Lovable",True,True,True,False,Open Innovation,False,True,https://github.com/quinn-watanabe/mediroute,https://www.loom.com/share/jN5PqR4JF6EB0WWHa7YDJ5wQyN7fH7eC
+7OsygQE,2Blcb9o,2026-02-21 15:10:44,jamiemar@pm.me,LexAI,"Jamie Martin (jamiemar@pm.me)
+Pawel Ferrari (pawel79@hey.com)
+Soren Santos (ssantos@gmail.com)
+Vera Klein (vera62@proton.me)",Browser extension that summarises legal T&Cs in plain language and maintains a personal log of every agreement signed.,"CodeWords (Side Challenge), Deepmind, Lovable",True,True,True,False,Open Innovation,False,True,https://github.com/jamie-martin/lexai,https://www.loom.com/share/yXNE7Y7bvuSznOG61HToeTEb4MpOaN4Y
+ZdYhKMd,muZTyhQ,2026-02-21 15:46:36,bjorn_bjork@icloud.com,GrantPilot,"Bjorn Bjork (bjorn_bjork@icloud.com)
+Theo Hutter (theo72@hey.com)",Automated grant discovery and application co-pilot for deep-tech startups — matches funding opportunities to company stage.,"Dust, Lovable",False,False,True,True,Open Innovation,False,True,https://github.com/bjorn-bjork/grantpilot,https://www.loom.com/share/Ht7nckdqUkwkpKiXNxj2fa5RKrQXDhiq
+LclE6MW,vaohGfw,2026-02-21 15:47:39,nicorom@gmail.com,SynthOps,"Nico Romano (nicorom@gmail.com)
+Tomasz Holmberg (tomasz35@yahoo.com)",AI-assisted incident response tool that correlates logs and traces to draft root-cause summaries in real time.,"CodeWords (Side Challenge), Deepmind, Dust",True,True,False,True,Conduct,True,False,https://github.com/nico-romano/synthops,https://www.loom.com/share/VHnVOrmXQ8DkPcNrAuXVcT5kWEh3SKum
+oozm3eK,dBnLlxC,2026-02-21 16:29:03,reese.gruber@proton.me,CarbonLens,"Reese Gruber (reese.gruber@proton.me)
+Elise Yilmaz (eliseyil@pm.me)",Real-time carbon accounting layer that plugs into ERP and turns operational data into Scope 1/2/3 emissions dashboards.,"Deepmind, Dust, Lovable",True,False,True,True,Open Innovation,False,True,https://github.com/reese-gruber/carbonlens,https://www.loom.com/share/mwqubJrgCzVnsjX74JIozG1nDCaA2pAn
+8cDVcGD,XYCoIaT,2026-02-21 16:54:04,petter.weber@icloud.com,HireLoop,"Petter Weber (petter.weber@icloud.com)
+Emre Kowalczyk (emre.kowalczyk@gmail.com)","Structured interview intelligence platform: records, transcribes, and scores interviews against a rubric, flagging bias in real time.","CodeWords (Side Challenge), Deepmind, Lovable",True,True,True,False,Open Innovation,False,True,https://github.com/petter-weber/hireloop,https://www.loom.com/share/6isOfDsR1UbCV2zWwCN1e3ucAq6HXWf2
+gwMwkIe,Rm8ohD6,2026-02-21 15:14:04,ajohansson@icloud.com,PaperTrail,Arjun Johansson (ajohansson@icloud.com),Research assistant that builds a living knowledge graph from PDFs and surfaces contradictions across studies.,"CodeWords (Side Challenge), Deepmind, Dust, Lovable",True,True,True,True,Conduct,True,False,https://github.com/arjun-johansson/papertrail,https://www.loom.com/share/J7nUnvqQrdvEGhSQHsMX6Y6e3Ce3r7gr
+GMs8Hiv,BNsd2o6,2026-02-21 15:55:46,isabelakum@yahoo.com,FlowForge,"Isabela Kumar (isabelakum@yahoo.com)
+Avery Chen (averyche@outlook.com)","No-code agent builder for operations teams — drag-and-drop workflows that call APIs, run LLM steps, and handle branching logic.","CodeWords (Side Challenge), Deepmind, Dust, Lovable",True,True,True,True,Open Innovation,False,True,https://github.com/isabela-kumar/flowforge,https://www.loom.com/share/NzvOuKR0BsiWkqE8VcvCk5Sr80QPjoct
+wmRP8jB,8Hhb5V6,2026-02-21 16:11:06,tomasz68@fastmail.com,AuditAI,"Tomasz Quinn (tomasz68@fastmail.com)
+Santiago Ionescu (santiago.ionescu@pm.me)
+Sasha Sahin (sasha64@yahoo.com)
+Theo Walsh (theo.walsh@gmail.com)","Automated code security audit: scans PRs, explains vulnerabilities in plain English, and suggests patch diffs.","CodeWords (Side Challenge), Deepmind, Dust",True,True,False,True,Conduct,True,False,https://github.com/tomasz-quinn/auditai,https://www.loom.com/share/5j8HFOs38U9PXT5ugDcQhbMnwuLmGWVm
+8yELFdP,ySAxavt,2026-02-21 15:23:51,harleyfer@gmail.com,NestView,"Harley Ferrari (harleyfer@gmail.com)
+Niko Novak (niko.novak@outlook.com)
+Mateo Constantin (mateo42@gmail.com)",AI-powered property valuation and investment analysis — plugs into Land Registry data for the UK residential market.,"Deepmind, Dust, Lovable",True,False,True,True,Open Innovation,False,True,https://github.com/harley-ferrari/nestview,https://www.loom.com/share/BIn3TzBkT3TzZLis9Gu5KxaNqkCJ4mZr
+ETnXjsN,NhPrl4N,2026-02-21 16:22:59,charlie_richter@fastmail.com,ClinicalNote,"Charlie Richter (charlie_richter@fastmail.com)
+Andrei Celik (andrei48@hey.com)
+Lucas Durand (lucas15@yahoo.com)","Voice-to-structured-note tool for clinicians: captures consultations, extracts SOAP notes, and populates EHR fields.","CodeWords (Side Challenge), Deepmind, Dust",True,True,False,True,Open Innovation,False,True,https://github.com/charlie-richter/clinicalnote,https://www.loom.com/share/bVE8LwDBpQ8YxTbqKjCQwdwN7dsNemMV
+ZQsQQfJ,ZaGxEv4,2026-02-21 16:26:20,alex_gruber@outlook.com,SupplySignal,"Alex Gruber (alex_gruber@outlook.com)
+Casey Alves (caseyalv@hey.com)
+Ingrid Nwosu (ingrid.nwosu@proton.me)","Supply chain risk monitor that ingests news, sanctions lists, and supplier data to surface disruption warnings ahead of time.","CodeWords (Side Challenge), Dust, Lovable",False,True,True,True,Conduct,True,False,https://github.com/alex-gruber/supplysignal,https://www.loom.com/share/gjnl3MZGGIUhCeY5DtwY3LVvSbYn1ioh
+QWeWUcg,XFdhpeP,2026-02-21 16:56:00,rowan61@gmail.com,OnboardBot,"Rowan Sato (rowan61@gmail.com)
+Hana Jung (hjung@pm.me)
+Ingrid Adeyemi (iadeyemi@fastmail.com)
+Sasha Kowalski (sasha22@pm.me)","Intelligent employee onboarding agent that answers policy questions, tracks task completion, and escalates blockers.","Deepmind, Dust, Lovable",True,False,True,True,Open Innovation,False,True,https://github.com/rowan-sato/onboardbot,https://www.loom.com/share/UW5m3lvf066vjFToJgJanlr3H8gnFRwK
+8AFzVtC,GEwrSfE,2026-02-21 16:36:53,jamie86@outlook.com,EdgeEval,"Jamie Hansen (jamie86@outlook.com)
+Rafael Rusu (rrusu@fastmail.com)
+Riya Kaminski (riya_kaminski@pm.me)
+Valentina Mehta (valentina16@fastmail.com)","Evaluation harness for LLM-powered products: generates adversarial test cases, runs them in CI, and tracks regression over time.","CodeWords (Side Challenge), Deepmind, Dust",True,True,False,True,Conduct,True,False,https://github.com/jamie-hansen/edgeeval,https://www.loom.com/share/xCTQ0oz9A13X6waPPyGPhyR8T3kwmm0z
+rSKqWNy,DLzErVg,2026-02-21 17:16:17,mikaelkum@gmail.com,ContextMap,"Mikael Kumar (mikaelkum@gmail.com)
+Jamie Demir (jamiedem@pm.me)",Codebase understanding tool — generates interactive architecture diagrams from any repo and keeps them in sync with commits.,"CodeWords (Side Challenge), Deepmind, Dust",True,True,False,True,Conduct,True,False,https://github.com/mikael-kumar/contextmap,https://www.loom.com/share/pEMigdeQ8xQjMfeUVXmPEqv1H7bA4xtx
+I1sREiS,EgPOQJD,2026-02-21 15:48:17,cricci@gmail.com,FundFlow,"Casey Ricci (cricci@gmail.com)
+Elena Bernard (ebernard@hey.com)
+Antoine Mensah (amensah@fastmail.com)
+Bjorn Fischer (bjornfis@outlook.com)","AI CFO for pre-seed startups: cash-flow forecasting, burn tracking, and scenario modelling in natural language.","Deepmind, Dust, Lovable",True,False,True,True,Open Innovation,False,True,https://github.com/casey-ricci/fundflow,https://www.loom.com/share/0FyE8Mv8tbcZvUb3vgvwvOpOK4esubuC
+RK9xyJY,gPuFVvM,2026-02-21 15:05:34,leongre@yahoo.com,PolicyParse,"Leon Greco (leongre@yahoo.com)
+Mehmet Larsen (mehmet55@yahoo.com)
+Zeynep Keller (zeynep39@gmail.com)
+Siobhan Santos (siobhan.santos@outlook.com)",Converts insurance policy documents into structured queryable data so brokers can compare coverage across providers instantly.,"CodeWords (Side Challenge), Deepmind, Dust",True,True,False,True,Open Innovation,False,True,https://github.com/leon-greco/policyparse,https://www.loom.com/share/wBE0W0Hrc9yoUf0fueXDnXOsXAHmyMCV
+1Jn7UC6,HMVAJMG,2026-02-21 17:20:57,sgarcia@fastmail.com,OpsGenie,"Shay Garcia (sgarcia@fastmail.com)
+Spencer Nakamura (snakamura@fastmail.com)
+Layla Sharma (lsharma@outlook.com)","ML-powered demand forecasting for hospitality operators — predicts covers, recommends staffing, and flags anomalies.","Deepmind, Lovable",True,False,True,False,Open Innovation,False,True,https://github.com/shay-garcia/opsgenie,https://www.loom.com/share/wjjQsAtZdmzZOpLzhlpZCIBOcjiqXOk0
+tsd73P2,y00oJFh,2026-02-21 15:22:55,fionescu@pm.me,ScholarAI,Finley Ionescu (fionescu@pm.me),"Personalised study planner that adapts to exam performance, identifies weak spots, and generates targeted practice questions.","Deepmind, Dust, Lovable",True,False,True,True,Open Innovation,False,True,https://github.com/finley-ionescu/scholarai,https://www.loom.com/share/PJWGEfLVtZTXU6ngnrz1dHRhHDprWiDw

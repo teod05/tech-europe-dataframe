@@ -1,0 +1,60 @@
+id,email,status,created,subscription_tier,utm_source,utm_medium,utm_channel,utm_campaign,referring_site,referral_code,tags,stats.emails_received,stats.open_rate,stats.click_through_rate,custom_fields.first_name,custom_fields.last_name
+sub_caa52a2c-518e-407d-bfd5-b7ac2a760e13,cameronmar@pm.me,active,1762761393,free,referral,,social,,techeurope.io,4XlYbIHY,"[""Active"", ""Engaged""]",8,85.0,24.6,Cameron,Martin
+sub_6086f7b2-dcfb-4f28-9b5a-6ffbb795c261,diego12@hey.com,active,1773078262,free,,social,social,partner_collab,twitter.com,,"[""Active"", ""Engaged"", ""CoFounderMatching""]",9,71.2,18.9,Diego,Yilmaz
+sub_cb212c6c-d851-4f5e-9221-7c81206b6205,aiko.choi@hey.com,active,1762722502,free,twitter,organic,social,partner_collab,linkedin.com,pUfhs7k8,"[""Active"", ""CoFounderMatching""]",9,38.0,11.0,Aiko,Choi
+sub_4b56844b-8f3a-4da5-8bdb-b7d65ef6f3fb,harleyfer@gmail.com,active,1756687671,free,,newsletter,,,,,"[""Active"", ""At-risk""]",5,3.9,3.7,Harley,Ferrari
+sub_75e1a9fb-5017-4fe7-a077-6da4f00374e2,ebernard@hey.com,active,1767185191,free,partner,,social,partner_collab,twitter.com,,"[""Active"", ""Engaged""]",15,83.8,12.3,Elena,Bernard
+sub_812bcebd-c254-4ce4-a733-f1bfc21e22ce,alex_gruber@outlook.com,active,1758185876,free,,organic,social,launch_2025,,,"[""Active"", ""New""]",1,16.0,4.8,Alex,Gruber
+sub_9f82f99d-e130-4bcb-a794-6f6206ca47ac,luca96@pm.me,active,1768733027,free,partner,newsletter,email,issue_47,,,"[""Active"", ""Engaged"", ""CoFounderMatching""]",3,62.0,14.8,Luca,Constantin
+sub_b8f1bf3c-2e1e-4a0f-b49d-d9bfeb7c41c1,tomasz35@yahoo.com,active,1770108565,free,direct,organic,social,,,,"[""Active"", ""Engaged"", ""New""]",2,80.3,23.7,Tomasz,Holmberg
+sub_2a73a64e-c220-4bc1-8fb0-f5564aa93d9c,erichter@fastmail.com,inactive,1763148303,free,partner,,social,issue_47,linkedin.com,,"[""CoFounderMatching""]",6,11.3,7.3,Elise,Richter
+sub_d387d059-5c86-4f7e-8bfd-0e08aa941af9,jamiedem@pm.me,active,1771234912,free,referral,social,website,partner_collab,,,"[""Active"", ""Engaged"", ""New"", ""CoFounderMatching""]",1,81.9,8.7,Jamie,Demir
+sub_6e763978-dd76-4174-8e3e-ca20bab2818d,emre.kowalczyk@gmail.com,inactive,1767736204,free,referral,organic,social,issue_45,twitter.com,8n7WhG2K,"[""New""]",2,7.3,2.4,Emre,Kowalczyk
+sub_c02c7f5e-138e-40a5-b1d0-60d023d40a18,finley.demir@pm.me,active,1773113674,free,referral,,email,launch_2025,twitter.com,,"[""Active"", ""CoFounderMatching""]",9,29.7,17.0,Finley,Demir
+sub_ead4dc93-9c6e-452a-8a47-dc02bbdf8cb4,charlie.fischer@yahoo.com,active,1762414132,free,direct,,,issue_47,,aFjhxTdS,"[""Active"", ""CoFounderMatching""]",13,33.1,11.4,Charlie,Fischer
+sub_078259fd-46cb-499f-8c9c-d99d047870f4,santiago.ionescu@pm.me,inactive,1769104996,free,direct,email,social,issue_47,techeurope.io,,[],13,5.0,3.0,Santiago,Ionescu
+sub_ff795fd3-7600-4ba7-b787-03e6330fdd67,zrichter@pm.me,active,1766308870,free,,organic,email,partner_collab,twitter.com,,"[""Active"", ""CoFounderMatching""]",7,44.3,25.1,Zara,Richter
+sub_44286148-833b-42cc-a383-dab822f3760e,sasha64@yahoo.com,validating,1770325172,free,twitter,organic,website,,,UIE27AFT,[],6,16.9,10.7,Sasha,Sahin
+sub_c1eed245-951e-4609-857b-200c25023b75,mehmet55@yahoo.com,active,1772779382,free,partner,social,,,,,"[""Active""]",9,58.2,23.7,Mehmet,Larsen
+sub_cfe6be3a-6b25-405d-ae8e-cbf39905fb7d,sgarcia@fastmail.com,inactive,1756929420,free,linkedin,,website,launch_2025,friend-referral,,[],7,14.1,10.6,Shay,Garcia
+sub_f2280770-5c64-45b9-bd0e-d39f2d1cca84,ioana.nwosu@fastmail.com,active,1764236848,free,referral,social,,issue_47,friend-referral,,"[""Active"", ""New"", ""CoFounderMatching""]",2,31.2,4.2,Ioana,Nwosu
+sub_614a4211-b5e8-44b1-9fff-745a3484b197,reese.gruber@proton.me,active,1760484286,free,,social,email,issue_45,friend-referral,,"[""Active""]",15,57.7,29.1,Reese,Gruber
+sub_d17c0ff3-956b-40be-a46c-5edf18959a50,myamamoto@icloud.com,active,1763834106,free,referral,,website,issue_47,,,"[""Active""]",12,53.6,13.8,Mikael,Yamamoto
+sub_fe927e05-a2af-4e9f-b6f9-98c8aae9eb6a,priyawol@icloud.com,active,1758614070,free,referral,social,website,issue_45,,,"[""Active"", ""New""]",1,52.3,11.5,Priya,Wolf
+sub_bb7b89c1-7a25-4448-9844-e6f0c1966691,fionescu@pm.me,active,1768580930,free,partner,,social,issue_47,twitter.com,,"[""Active"", ""New""]",2,36.6,6.9,Finley,Ionescu
+sub_db1bfa55-a066-4ef5-92cd-8176f8370543,cameron_baumann@gmail.com,active,1756916676,free,organic,newsletter,email,issue_45,friend-referral,,"[""Active"", ""CoFounderMatching""]",13,55.8,7.9,Cameron,Baumann
+sub_78dae92f-e1c5-423f-8165-b17da2f55059,avery.ionescu@pm.me,active,1765727104,free,linkedin,newsletter,,,techeurope.io,,"[""Active""]",8,55.8,15.4,Avery,Ionescu
+sub_edcde4ae-b981-4bd9-b705-c5087cea65c6,pquinn@proton.me,active,1763344167,free,organic,newsletter,website,,,,"[""Active""]",4,24.2,3.2,Pawel,Quinn
+sub_c3dbb9af-16ca-478e-96bf-510bbd82f67e,sasha22@pm.me,inactive,1772767270,free,organic,organic,email,issue_47,,,[],5,2.4,1.2,Sasha,Kowalski
+sub_d10722a8-2241-4d86-8f9a-76f67def0281,quinn_choi@pm.me,active,1769732390,free,linkedin,organic,email,launch_2025,twitter.com,,"[""Active"", ""Engaged"", ""New"", ""CoFounderMatching""]",2,81.4,27.7,Quinn,Choi
+sub_75fa4fcc-dc53-4143-b97f-7e9937c315e2,jamiemar@pm.me,active,1764620588,free,partner,social,,issue_47,techeurope.io,,"[""Active"", ""Engaged"", ""CoFounderMatching""]",11,70.5,15.0,Jamie,Martin
+sub_6cc96edf-fcdf-4da0-8da3-a6181492523d,hjung@pm.me,validating,1759456895,free,partner,organic,social,issue_45,twitter.com,,"[""CoFounderMatching""]",7,5.0,0.8,Hana,Jung
+sub_95cb6466-8025-4729-ad66-87175a1bb05e,theo72@hey.com,inactive,1764984635,free,,social,social,,,,[],14,8.6,4.1,Theo,Hutter
+sub_fe1af87d-9a64-43a3-997b-643106b8b142,andreirus@icloud.com,active,1761675219,free,linkedin,organic,,,,,"[""Active"", ""At-risk"", ""New""]",2,11.2,0.4,Andrei,Rusu
+sub_ef2d31d9-21f9-4a4c-a1ff-d08f3b5385e7,petter.weber@icloud.com,active,1758394578,free,linkedin,organic,email,issue_47,friend-referral,Adgw6Sp3,"[""Active""]",7,44.6,24.5,Petter,Weber
+sub_89824bbd-c82f-46e5-9f1c-1f5525852cbc,mira.larsen@hey.com,active,1762783372,free,linkedin,newsletter,,issue_45,,l6wsgaI1,"[""Active"", ""At-risk"", ""New""]",1,4.4,3.3,Mira,Larsen
+sub_237acd32-6013-4bb4-93e0-557f1a3efdc1,alex.diallo@pm.me,active,1767798421,free,partner,,email,,,,"[""Active"", ""Engaged""]",12,68.9,26.0,Alex,Diallo
+sub_30a0c03f-8904-4aa7-a3a8-bd4eddf422c3,mateokay@fastmail.com,active,1769571358,free,partner,social,website,launch_2025,,,"[""Active"", ""At-risk""]",15,9.0,5.7,Mateo,Kaya
+sub_261773f7-69cd-4b64-8b73-413dcb55272f,zeynep_hansen@outlook.com,inactive,1763158372,free,partner,,email,issue_45,,,[],8,18.5,1.4,Zeynep,Hansen
+sub_fb49b03b-2124-47e7-a021-a3a1f2c07cfe,cillian44@icloud.com,active,1763462765,free,organic,,email,launch_2025,techeurope.io,,"[""Active"", ""At-risk""]",12,13.1,1.7,Cillian,Walsh
+sub_d841a7c2-081d-4dd6-be2f-5fc3b1878da1,arusu@proton.me,inactive,1771733366,free,organic,email,website,,,,[],12,2.3,1.0,Arjun,Rusu
+sub_37aa69b6-3642-4b1e-a577-9b466a4e00fd,zandersson@hey.com,active,1761011115,free,direct,organic,,issue_47,,,"[""Active"", ""Engaged"", ""New""]",1,81.2,2.1,Zara,Andersson
+sub_db18f9a2-bd7b-4e13-9eae-63530d544d30,theo66@outlook.com,active,1759200896,free,,email,,launch_2025,techeurope.io,,"[""Active"", ""Engaged""]",8,63.8,13.4,Theo,Schulz
+sub_05c25353-d7fe-4cc0-b4ab-8bb7bdd9c9bf,marta.richter@pm.me,active,1756805614,free,,,,launch_2025,,,"[""Active""]",10,18.5,12.9,Marta,Richter
+sub_31d9bfc1-d0f8-4b4a-9e46-f5bd4f047460,mika.sousa@proton.me,active,1765369848,free,partner,social,social,,twitter.com,,"[""Active""]",14,18.7,13.2,Mika,Sousa
+sub_660407dc-1a62-45b3-a542-ecb29b8a7372,jmueller@gmail.com,active,1766477436,free,linkedin,newsletter,website,partner_collab,linkedin.com,,"[""Active"", ""At-risk""]",11,12.6,11.1,Jude,Mueller
+sub_3b4fb6ab-2bbe-42cd-ad57-3ead6daed30a,ana.hoffmann@icloud.com,active,1763730304,free,partner,newsletter,email,,,,"[""Active"", ""At-risk"", ""New""]",2,0.1,0.0,Ana,Hoffmann
+sub_5091c63c-9805-4dc3-8b3e-df1a6be6eddc,freya98@outlook.com,inactive,1765544451,free,referral,social,website,issue_45,linkedin.com,,[],3,8.2,5.0,Freya,Lindqvist
+sub_018d0bd4-0e76-4704-bff3-a525e1e78ebf,elena_kim@yahoo.com,active,1766069632,free,,,website,partner_collab,,,"[""Active"", ""Engaged""]",5,82.6,18.8,Elena,Kim
+sub_56461e78-9a43-46d5-a968-1ddd96342d03,luciabec@icloud.com,validating,1765319870,free,,email,social,issue_45,techeurope.io,,[],11,12.7,7.0,Lucia,Becker
+sub_465817bd-c17c-435e-ae91-72088c52b5c8,ivan_holmberg@gmail.com,active,1769954350,free,referral,organic,,,friend-referral,,"[""Active""]",8,19.7,14.3,Ivan,Holmberg
+sub_3bc3207a-0154-4ca1-9b11-736bfc76c6a8,mikapat@fastmail.com,validating,1762893310,free,direct,organic,email,,techeurope.io,,[],14,3.5,2.0,Mika,Patel
+sub_92ab1d43-331f-4ce1-8474-04a104e757df,mjohansson@pm.me,validating,1762648572,free,linkedin,social,,,friend-referral,,[],7,13.7,2.6,Morgan,Johansson
+sub_61ee659d-bd5d-46d7-8b09-67e9bea58f2a,freya20@pm.me,active,1770190603,free,,social,website,issue_47,friend-referral,ZVNcpfiM,"[""Active""]",12,44.8,25.4,Freya,Murphy
+sub_817cdb27-c002-4f24-9e75-88685fddab55,astrid.mueller@outlook.com,validating,1757137680,free,direct,newsletter,website,,linkedin.com,,"[""New""]",1,19.2,2.0,Astrid,Mueller
+sub_e3014ba2-3e7a-43be-8cf5-9af11f21f68d,astrid_wojcik@proton.me,validating,1771593913,free,linkedin,social,email,partner_collab,,ZgsFZi4b,[],3,6.1,2.9,Astrid,Wojcik
+sub_7fea5f67-fa1e-47f9-ba2e-c8805966f41b,eweber@hey.com,active,1771017086,free,direct,email,website,issue_47,linkedin.com,,"[""Active""]",3,30.0,8.6,Elena,Weber
+sub_8295ccbb-644d-40c8-b15f-fa452c7f36b5,lenakay@icloud.com,active,1764218523,free,twitter,newsletter,website,,,,"[""Active""]",5,30.4,18.7,Lena,Kaya
+sub_201960c2-bdbd-4b3c-a351-064746d7b394,ezragom@pm.me,active,1771067182,free,linkedin,newsletter,email,issue_45,twitter.com,,"[""Active""]",6,51.0,23.8,Ezra,Gomez
+sub_f654391e-e9e7-42c4-b1dc-b59ab9adfd7a,camilapar@outlook.com,inactive,1773436876,free,direct,social,website,,,jBX8YhAT,[],6,18.7,15.2,Camila,Park
+sub_a276814c-0957-483e-9bc3-d80cfd85a258,emery.kaya@icloud.com,active,1761539046,free,organic,newsletter,email,issue_47,friend-referral,,"[""Active"", ""Engaged""]",6,84.6,6.4,Emery,Kaya
